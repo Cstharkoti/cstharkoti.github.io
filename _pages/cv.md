@@ -7,3 +7,4 @@ redirect_from:
   - /resume
 ---
 You can find it [here]{ url: /files/CV__chet.pdf  }
+https://cstharkoti.github.io/files/CV__chet.pdf
