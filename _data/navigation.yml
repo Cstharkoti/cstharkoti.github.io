@@ -8,9 +8,9 @@ main:
    - title: "Research Interests"
      url: /research-interests/    
     
-   - title: "CV"
+ #  - title: "CV"
    #  url: /cv/ 
-     url: /files/CV__chet.pdf
+  #   url: /files/CV__chet.pdf
     
    - title: "Education"
      url: /education/    
