@@ -8,4 +8,5 @@ author_profile: true
 Masters thesis: A theorem of Kunz and structure theorems for Complete local rings
 ======
 Guide : Dr. Viji Z Thomas (IISER TVM).
+
 In the first part of the project I studied the Valuation rings, Completion of rings and modules from Matsumura and a Theorem by Kunz from Characteristic 𝑝-Techniques in Commutative Algebra and Algebraic Geometry the notes by Karen E Smith. In the second phase of the project I studied 0-smoothness, Separability over Rings, The module of K¨ alher differentials, 𝐼-smoothness of Rings and using those we studied the Structure theorems for complete local rings from Matsumura.
