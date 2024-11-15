@@ -12,7 +12,6 @@ main:
    #  url: /cv/ 
      url: files/CV__chet.pdf
     
-    
    - title: "Education"
      url: /education/    
 
