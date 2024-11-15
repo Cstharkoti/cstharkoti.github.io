@@ -21,7 +21,7 @@ repository               : "cstharkoti/cstharkoti.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/IMG_0254.jpg"
+  avatar           : "IMG_0254.jpg"
   name             : "Chetan S Tharkoti"
   pronouns         : # example: "she/her"  
   bio              : # "Short biography for the left-hand sidebar"
