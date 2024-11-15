@@ -14,8 +14,8 @@ main:
    - title: "Education"
      url: /education/    
 
-   - title: "Blog Posts"
-     url: /year-archive/
+   - title: "Reading projects"
+     url: /projects/
 
    - title: "Publications"
      url: /publications/
