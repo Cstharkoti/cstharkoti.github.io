@@ -18,8 +18,8 @@ main:
    - title: "Reading projects"
      url: /projects/
 
-   - title: "Publications"
-     url: /publications/
+   - title: "Notes"
+     url: /notes/
      
    - title: personal
      url: /personal/
