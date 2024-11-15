@@ -8,4 +8,4 @@ redirect_from:
 ---
  I am Chetan S Tharkoti a student of mathematics. Currently I am doing a reding project in Algebraic Geometry (vector bundles) under the supervision of [Dr. Jyoti Dasgupta](https://sites.google.com/view/jyotidasgupta/home). Before this I did a reading project on Sheaf Cohomology at [IISER TVM](https://www.iisertvm.ac.in/) under the guidance of [Dr Sarbeswar Pal](https://iisertvm.irins.org/profile/94153). 
 
-  I did my Bachleor's at [SGND Khasa college](https://www.sgndkc.org/sk/)([University of Delhi](https://www.du.ac.in/))
+  I did my Bachleors od Science(Hons) in Mathematics at [SGND Khasa college](https://www.sgndkc.org/sk/)([University of Delhi](https://www.du.ac.in/)), and masters at [IISER TVM](https://www.iisertvm.ac.in/) where i wrote my masters thesis in Copmmutative algebra under the guidance of [Dr. Viji Z. Thomas](https://www.iisertvm.ac.in/faculty/vthomas?%2Ffaculties%2Fvthomas=).
