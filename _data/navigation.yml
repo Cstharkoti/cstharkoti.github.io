@@ -20,6 +20,6 @@ main:
 
    - title: "Publications"
      url: /publications/
-
-  - title: personal
-   url: /personal/
+     
+   - title: personal
+     url: /personal/
