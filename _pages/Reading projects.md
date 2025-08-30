@@ -23,4 +23,4 @@ Algebraic Geometry : Moduli spaces of coherent sheaves
 ======
 Guide : Dr Jyoti Dasgupta (IIT-ISM)
 
-Currently studying the moduli spaces of pure coherent sheaves using GIT. 
+Currently studying the moduli spaces of purely coherent sheaves using GIT. 
