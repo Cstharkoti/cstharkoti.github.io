@@ -19,9 +19,8 @@ Guide : Dr Sarbeswar Pal (IISER TVM)
 Derived functor, sheaf cohomology, cohomology of Noetherian Affine Scheme, Cech Cohomology, The cohomology of projective space (the first 5 sections of ch 3: cohomology of the book ALgebraic Geometry by R. Hartshrone) after covering the basics in scheme theory.
 
 
-Algebraic Geometry : Classification of algebraic vector bundles on a connected, smooth, projective algebraic curve 𝑋 of genus 𝑔
+Algebraic Geometry : Moduli spaces of coherent sheaves
 ======
 Guide : Dr Jyoti Dasgupta (IIT-ISM)
 
-Currently reading the first part of the book ’Lectures on Vector Bundles’ by J. Le
-Potier
+Currently studying the moduli spaces of pure coherent sheaves using GIT. 
